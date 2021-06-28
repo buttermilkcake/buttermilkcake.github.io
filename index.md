@@ -4,7 +4,7 @@
     <title>Startup</title>
     <style>
       body {
-        background-image: url('https://github.com/buttermilkcake/buttermilkcake.github.io/blob/main/header.jpg');
+        background-image: url('https://github.com/buttermilkcake/buttermilkcake.github.io/blob/main/header.JPG');
     }
 </style>
     <!-- Required Meta Tags -->
